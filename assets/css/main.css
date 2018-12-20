@@ -1637,3 +1637,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.projects:before{
+	background-image: none;
+	background-color: transparent;
+}

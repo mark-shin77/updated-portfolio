@@ -1642,3 +1642,8 @@ input, select, textarea {
 	background-image: none;
 	background-color: transparent;
 }
+
+#resume-link {
+	margin-top: -4%;
+	margin-bottom: -3%;
+}
